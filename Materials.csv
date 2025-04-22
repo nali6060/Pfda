@@ -1,0 +1,5 @@
+ID	Nom	Type	Description
+1	Bois	Matériau de base	Utilisé pour fabriquer des planches
+2	Fer	Métal	Utilisé pour fabriquer des outils
+3	Pierre	Matériau de base	Utilisé pour fabriquer des outils de pierre
+4	Diamant	Métal précieux	Utilisé pour fabriquer des outils en diamant
